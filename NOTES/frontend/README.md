@@ -9,6 +9,10 @@
 
 - [What is senior frontend]()
 - [Frontend performance]()
+- Design pattern
+  - [IT 邦幫忙](https://ithelp.ithome.com.tw/articles/10201706)
+- RxJS
+  - [IT 邦幫忙](https://ithelp.ithome.com.tw/users/20103367/ironman/1199?page=1)
 
 ## FAQ
 
